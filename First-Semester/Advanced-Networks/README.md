@@ -11,3 +11,6 @@ We will introduce a resume with hands on tasks and Q&A about each chapter.
 --- 
 
 ### TPs section
+
+
+We will introduce a deatiled solution with intercative explanation.
