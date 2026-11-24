@@ -17,9 +17,9 @@ Academic materials and assignments for the first semester.
 
 | Subject | Contents |
 |---|---|
-| Subject 1 | TPs & TDs |
-| Subject 2 | TPs & TDs |
-| Subject 3 | TPs & TDs |
+| [Advanced-Database](./First-Semester/Advanced-Database/) | TPs & TDs |
+| [Advanced-Algorithm-And-Complexity](./First-Semester/Advanced-Algorithm-And-Complexity/) | TPs & TDs |
+| [Advanced-Networks](./First-Semester/Advanced-Networks/) | TPs & TDs |
 
 ### Semester 2
 
