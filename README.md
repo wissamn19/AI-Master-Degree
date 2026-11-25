@@ -21,6 +21,8 @@ Academic materials and assignments for the first semester.
 | [Advanced-Algorithm-And-Complexity](./First-Semester/Advanced-Algorithm-And-Complexity/) | TPs & TDs |
 | [Advanced-Networks](./First-Semester/Advanced-Networks/) | TPs & TDs |
 | [Machine-learning](./First-Semester/Machine-learning/) | TPs & TDs |
+| [Optimization-Methods](./First-Semester/Optimization-Methods/) | TPs & TDs |
+| [Machine-learning](./First-Semester/Machine-learning/) | TPs & TDs |
 
 ### Semester 2
 
