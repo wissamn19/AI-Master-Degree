@@ -54,6 +54,4 @@ Depending on the subject, this repository may include work using:
 
 This repository is continuously updated throughout my Master's degree as I study new subjects and complete assignments.
 
----
-
 
