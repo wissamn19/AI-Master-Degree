@@ -22,7 +22,7 @@ Academic materials and assignments for the first semester.
 | [Advanced-Networks](./First-Semester/Advanced-Networks/) | TPs & TDs |
 | [Machine-learning](./First-Semester/Machine-learning/) | TPs & TDs |
 | [Optimization-Methods](./First-Semester/Optimization-Methods/) | TPs & TDs |
-| [Machine-learning](./First-Semester/Machine-learning/) | TPs & TDs |
+| [Knowledge-Representation-And-Reasoning](./First-Semester/Knowledge-Representation-And-Reasoning/) | TPs & TDs |
 
 ### Semester 2
 
