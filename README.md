@@ -30,9 +30,7 @@ Academic materials and assignments for the second semester.
 
 | Subject | Contents |
 |---|---|
-| Subject 1 | TPs & TDs |
-| Subject 2 | TPs & TDs |
-| Subject 3 | TPs & TDs |
+
 
 ## Repository Goals
 
@@ -49,6 +47,7 @@ Depending on the subject, this repository may include work using:
 - Jupyter Notebook
 - NumPy & Pandas
 - Scikit-learn
+- sparql query
 - Cisco Packet Tracer
 - Git & GitHub
 
