@@ -23,7 +23,7 @@ Academic materials and assignments for the first semester.
 | [Machine-learning](./First-Semester/Machine-learning/) | TPs |
 | [Optimization-Methods](./First-Semester/Optimization-Methods/) | TPs & TDs |
 | [Knowledge-Representation-And-Reasoning](./First-Semester/Knowledge-Representation-And-Reasoning/) | TPs |
-
+| [Data-Analysis](./First-Semester/Data-Analysis/) | TDs |
 ### Semester 2
 
 Academic materials and assignments for the second semester.
